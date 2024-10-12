@@ -7,7 +7,7 @@ app_secret = "1c4e5e49abb49f3d8ecd8f02f183a577"
 # 每日消息
 template_id1 = "wX-************************************"
 # 课程消息,上课提醒
-template_id2 = "loe1yHWr************************************"
+template_id2 = "MPaJJ9WsDcOScQei9Z334kj91ZwDIG6Ofgum-FftAjA"
 # 晚安心语
 template_id3 = "-fun9-2************************************"
 # 接收公众号消息的微信号
